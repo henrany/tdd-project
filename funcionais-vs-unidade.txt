@@ -1,0 +1,5 @@
+1. Teste funcional testa a funcionalidade de acordo com os requisitos do usuário enquanto teste de unidade
+testa funcionalidade de metodos. 
+
+2. Test funcional tem um custo alto e manter enquanto teste de unidade tem custo baixo e nao e' dificil de 
+manter. 
