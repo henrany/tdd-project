@@ -1,0 +1,8 @@
+Inicialmente, escrevemos um test funiconal e testamos se esse teste passar ou nao. 
+Se o teste nao passar, escrevemos um teste de unidade. Se o teste unidade nao
+passar, escrevemos um pequeno codigo e verificamos de novo. Isso e' feito 
+ate que o teste passar. Depois de passar, verificamos se precisa de um 
+refatoracao. Se precisa, o ciclo e' repetido de novo. Mas se nao precisa de um 
+refatoracao, rodamos o teste funiconal. O ciclo e' repetido se o teste funcional 
+nao passe. Mas se ele passar, verificamos se precisa de uma refatoracao, se sim, 
+voltamos para a parte do teste de unidade. 
