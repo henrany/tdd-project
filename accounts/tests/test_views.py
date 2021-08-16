@@ -33,3 +33,5 @@ class SendLoginEmailViewTest(TestCase):
             "Check your email, we've sent you a link you can use to log in."
         )
         self.assertEqual(message.tags, "success")
+
+        
